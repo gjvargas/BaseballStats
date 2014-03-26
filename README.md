@@ -1,6 +1,6 @@
 
 
-Tests are available in the prompt/tests/ directory.
+Tests are available in the tests/ directory.
 Each *.pickle file corresponds to a single test file.
 
 To test for correctness, please run
